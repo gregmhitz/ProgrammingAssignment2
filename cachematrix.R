@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## Greg's attempt at programming assignment number 2. 
 ## functions do
 
 ## Write a short comment describing this function
